@@ -1,0 +1,34 @@
+{
+ "region": "경북 경산시 자인면",
+ "nameEn": "Daekyeung University",
+ "added": "2026-11-01T02:27",
+ "rank": 198,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "YU",
+   "campus": "영남대학교 경산캠퍼스",
+   "km": 5.8
+  },
+  {
+   "code": "DHU",
+   "campus": "대구한의대학교 삼성캠퍼스",
+   "km": 6.1
+  },
+  {
+   "code": "DAEGU",
+   "campus": "대구대학교 경산캠퍼스",
+   "km": 7.9
+  },
+  {
+   "code": "KIU",
+   "campus": "경일대학교",
+   "km": 8.4
+  },
+  {
+   "code": "DCU",
+   "campus": "대구가톨릭대학교 효성캠퍼스",
+   "km": 8.6
+  }
+ ]
+}
